@@ -27,8 +27,8 @@
 
 ## Corrección y próximo ejercicio
 
-> #### Lunes 18 de noviembre de 2024 a las 20:00 (hora España) desde **[Twitch](https://twitch.tv/mouredev)**
-> #### Consulta el **[horario](https://discord.gg/KWfXWnfK?event=1303107145558003764)** por país y crea un **[recordatorio](https://discord.gg/KWfXWnfK?event=1303107145558003764)**
+> #### Lunes 25 de noviembre de 2024 a las 20:00 (hora España) desde **[Twitch](https://twitch.tv/mouredev)**
+> #### Consulta el **[horario](https://discord.gg/6FfxAHA3?event=1305700498115919993)** por país y crea un **[recordatorio](https://discord.gg/6FfxAHA3?event=1305700498115919993)**
 
 ## Roadmap
 
@@ -79,7 +79,8 @@
 |42|[TORNEO DRAGON BALL](./Roadmap/42%20-%20TORNEO%20DRAGON%20BALL/ejercicio.md)|[📝](./Roadmap/42%20-%20TORNEO%20DRAGON%20BALL/python/mouredev.py)|[▶️](https://youtu.be/SgwX7ISEkvM)|[👥](./Roadmap/42%20-%20TORNEO%20DRAGON%20BALL/)
 |43|[GIT GITHUB CLI](./Roadmap/43%20-%20GIT%20GITHUB%20CLI/ejercicio.md)|[📝](./Roadmap/43%20-%20GIT%20GITHUB%20CLI/python/mouredev.py)|[▶️](https://youtu.be/Ct4GKpbqflI)|[👥](./Roadmap/43%20-%20GIT%20GITHUB%20CLI/)
 |44|[CUENTA ATRÁS MOUREDEV PRO](./Roadmap/44%20-%20CUENTA%20ATRÁS%20MOUREDEV%20PRO/ejercicio.md)|[📝](./Roadmap/44%20-%20CUENTA%20ATRÁS%20MOUREDEV%20PRO/python/mouredev.py)|[▶️](https://youtu.be/9wsXz4K8Q-4)|[👥](./Roadmap/44%20-%20CUENTA%20ATRÁS%20MOUREDEV%20PRO/)
-|45|[GITHUB OCTOVERSE](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/ejercicio.md)|[🗓️ 18/11/24](https://discord.gg/KWfXWnfK?event=1303107145558003764)||[👥](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/)
+|45|[GITHUB OCTOVERSE](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/ejercicio.md)|[📝](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/python/mouredev.py)|[▶️](https://youtu.be/yj5ZFT_Xmcs)|[👥](./Roadmap/45%20-%20GITHUB%20OCTOVERSE/)
+|46|[X VS BLUESKY](./Roadmap/46%20-%20X%20VS%20BLUESKY/ejercicio.md)|[🗓️ 25/11/24](https://discord.gg/6FfxAHA3?event=1305700498115919993)||[👥](./Roadmap/46%20-%20X%20VS%20BLUESKY/)
 
 ## Cursos en YouTube
 
